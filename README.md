@@ -1,4 +1,4 @@
-# DOCT-ME-A-doctor-appointment-booking-application
+# HEAL FINDER -A-doctor-appointment-booking-application
 
 Language : JAVA
 IDE      : Eclipse
